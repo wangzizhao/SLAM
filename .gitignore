@@ -1,0 +1,6 @@
+src
+src/**
+\.vscode/settings\.json
+*.json
+bin
+bin/**

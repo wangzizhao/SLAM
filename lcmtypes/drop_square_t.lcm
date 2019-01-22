@@ -1,0 +1,7 @@
+// drops a square if turning
+struct drop_square_t
+{
+    int64_t utime;
+    float x;
+    float y;
+}
