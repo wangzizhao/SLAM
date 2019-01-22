@@ -12,9 +12,7 @@ The goal of this project is to implement simultaneous mapping and localization (
 
 The following is a video about how the robot explores the maze:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/iv66wdR6zMM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![Alt text](https://img.youtube.com/vi/iv66wdR6zMM/0.jpg)](https://www.youtube.com/watch?v=iv66wdR6zMM)
 
 If you want to skip the video, these are the photo of the true maze and the map that the robot gets after exploring the maze along the red route:
 
